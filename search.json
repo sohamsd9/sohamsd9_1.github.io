@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Assignment-1",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nimport pandas as pd\nimport numpy as np\ndf = pd.DataFrame({\"A\": np.arange(5), \"B\": np.random.randn(5)})\ndf.head()\n\n\n\n\n\n\n\n\nA\nB\n\n\n\n\n0\n0\n1.216962\n\n\n1\n1\n0.463833\n\n\n2\n2\n0.404289\n\n\n3\n3\n-0.656603\n\n\n4\n4\n0.887859"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
