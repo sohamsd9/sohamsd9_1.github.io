@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Assignment-1",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nimport pandas as pd\nimport numpy as np\ndf = pd.DataFrame({\"A\": np.arange(5), \"B\": np.random.randn(5)})\ndf.head()\n\n\n\n\n\n\n\n\nA\nB\n\n\n\n\n0\n0\n-0.999354\n\n\n1\n1\n-1.086710\n\n\n2\n2\n-0.768314\n\n\n3\n3\n-0.441036\n\n\n4\n4\n-1.173203"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nimport pandas as pd\nimport numpy as np\ndf = pd.DataFrame({\"A\": np.arange(5), \"B\": np.random.randn(5)})\ndf.head()\n\n\n\n\n\n\n\n\nA\nB\n\n\n\n\n0\n0\n0.450407\n\n\n1\n1\n-0.034205\n\n\n2\n2\n1.230617\n\n\n3\n3\n0.851533\n\n\n4\n4\n-0.147944"
   }
 ]
